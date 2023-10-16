@@ -8,7 +8,7 @@ import two from '../public/two.jpg';
 import three from '../public/three.jpg';
 import View from '../public/cars1.png'
 import View2 from '../public/View3.png'
-import View3 from '../public/Vi.png'
+import View3 from '../public/vi.png'
 import View4 from '../public/v34.png'
 import View5 from '../public/vi56.png'
 import four from '../public/four.jpg';
